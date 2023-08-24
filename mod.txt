@@ -1,4 +1,4 @@
-mod.txt{
+{
     "name" : "Ricochet Counter",
     "description" : "Tracks the number of Copycat Ricochets performed, including total damage and kills",
     "author" : "Timmy-P",
