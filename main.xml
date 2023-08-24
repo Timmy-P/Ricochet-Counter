@@ -1,9 +1,0 @@
-<mod name="Ricochet Counter">
-	<AssetUpdates id="42745" version="1.0" provider="modworkshop" install_directory = "mods/" version_is_number="true"/>
-	<!--Others-->
-	<Hooks>
-		<hook file="main.lua" source_file="lib/states/missionendstate"/>
-		<hook file="main.lua" source_file="lib/managers/playermanager"/>
-		<hook file="main.lua" source_file="lib/units/enemies/cop/copdamage"/>
-	</Hooks>
-</mod>
